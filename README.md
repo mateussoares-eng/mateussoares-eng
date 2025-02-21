@@ -1,4 +1,4 @@
-# 👨‍💻 Mateus Soaras
+# 👨‍💻 Mateus Soares
 
 **`Dev FullStack`**
 
